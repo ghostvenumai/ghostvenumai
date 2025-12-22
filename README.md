@@ -72,7 +72,7 @@ My approach is fast, adaptive and experimental — I learn by building real syst
 ## 📂 Portfolio
 
 You can view all demo projects here:  
-👉 **https://github.com/ghostvenumai/ghostvenumai-portfolio**
+👉 **https://github.com/ghostvenumai**
 
 These demos show my architecture, coding style and problem-solving approach.
 
