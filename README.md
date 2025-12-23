@@ -82,17 +82,4 @@ You can view my public demo projects here:
 
 These repositories demonstrate my architecture decisions, coding style, and problem-solving approach.
 
-📝 Note for Recruiters (including OpenAI)
 
-This GitHub profile contains review-safe portfolio projects designed for transparency and evaluation.
-They reflect my engineering mindset, not the full internal complexity of my private prototypes.
-
-I am particularly interested in roles involving:
-
-AI safety & applied AI engineering
-
-AI-augmented security systems
-
-analysis and reasoning pipelines
-
-rapid prototyping of complex systems
